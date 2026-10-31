@@ -1,0 +1,10 @@
+{
+  "description": "Showcases TWENDE's mobility and delivery services through a cinematic, interactive landing page with immersive video galleries and smooth navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

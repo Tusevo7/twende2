@@ -103,7 +103,7 @@ function Icon({
 function Brand() {
   return (
     <span className="brand" aria-label="TWENDE">
-      TWENDE<span className="brand-dot">.</span>
+      twende<span className="brand-dot">.</span>
     </span>
   )
 }
@@ -408,7 +408,7 @@ export default function App() {
             <span>Nós movemo-nos com ela.</span>
           </h2>
           <p>
-            A TWENDE aproxima pessoas, destinos e negócios através de uma
+            A twende aproxima pessoas, destinos e negócios através de uma
             experiência de mobilidade pensada para o ritmo da cidade.
           </p>
         </div>
@@ -498,7 +498,7 @@ export default function App() {
               src="https://images.unsplash.com/photo-1624607391672-2b7d1bcafe7c?auto=format&fit=crop&w=1400&q=82"
             />
             <div className="service-card__overlay" />
-            <span className="eyebrow">TWENDE RIDES</span>
+            <span className="eyebrow">Twende Corridas</span>
             <div>
               <h3>Chega onde precisas.</h3>
               <p>Uma forma simples de pedir uma corrida e seguir caminho.</p>
@@ -514,7 +514,7 @@ export default function App() {
               src="https://images.unsplash.com/photo-1782937102880-6d5fe9058aa7?auto=format&fit=crop&w=1400&q=82"
             />
             <div className="service-card__overlay" />
-            <span className="eyebrow">TWENDE DELIVERY</span>
+            <span className="eyebrow">Twende Entregas</span>
             <div>
               <h3>O que precisas, a caminho.</h3>
               <p>Recolhas e entregas para acompanhar o ritmo do teu dia.</p>
